@@ -1,0 +1,7 @@
+{
+    "name": "jquery-ui-sortable",
+    "description": "jQuery UI Sortable",
+    "dependencies": {
+        "jquery": "https://github.com/m1ke/jquery-bower.git"
+    }
+}
